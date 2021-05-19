@@ -4,8 +4,8 @@
 - 🌱 I’m addicted to continious learning and self-improvement.
 - 👯 I’m currently learning to be a problem solver through coding, and sharing my little knowledge here. 
 - 📫 How to reach me on:
--      [Linkedin](https://www.linkedin.com/in/olatunde-salami/)
--      [Twitter](https://twitter.com/Olatunde_tuns)
+  -  [Linkedin](https://www.linkedin.com/in/olatunde-salami/)
+  -  [Twitter](https://twitter.com/Olatunde_tuns)
 
 
 <!-- 

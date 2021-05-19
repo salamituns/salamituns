@@ -1,4 +1,4 @@
-### Hi there. I'm Olatunde 👋
+### Hi there 👋.  I'm Olatunde  :smile:
 
 - 🔭 I'm a Geoscientist, who loves to code, read and do data science.
 - 🌱 I’m addicted to continious learning and self-improvement.

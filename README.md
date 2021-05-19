@@ -1,6 +1,14 @@
 ### Hi there. I'm Olatunde 👋
 
-<!--
+- 🔭 I'm a Geoscientist, who loves to code, read and do data science.
+- 🌱 I’m addicted to continious learning and self-improvement.
+- 👯 I’m currently learning to be a problem solver through coding, and sharing my little knowledge here for the world to see. 
+- 📫 How to reach me on:
+-     *  [Linkedin](https://www.linkedin.com/in/olatunde-salami/)
+-     *  [Twitter](https://twitter.com/Olatunde_tuns)
+
+
+<!-- 
 **salamituns/salamituns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

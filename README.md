@@ -1,9 +1,10 @@
 ### Hi there 👋.  I'm Olatunde  :smile:
 
-- 🔭 I'm a Geoscientist, who likes Programming, data science and food :see_no_evil: :smile: 
+- 🔭 I'm a Geoscientist, who likes Programming, data science and books 
 - 🌱 I’m addicted to continious learning and self-improvement.
-- 👯 I’m currently learning to be a problem solver through coding, and sharing my little knowledge here. 
-- 📫 How to reach me on:
+- 👯 Currently, I am learning to be a problem solver through coding, and sharing my little knowledge here. 
+- ⚡  Fun fact: I am a foodie :see_no_evil: :smile: 
+- 📫 Connect with me on:
   -  [Linkedin](https://www.linkedin.com/in/olatunde-salami/)
   -  [Twitter](https://twitter.com/Olatunde_tuns)
 

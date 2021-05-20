@@ -1,6 +1,6 @@
 ### Hi there 👋.  I'm Olatunde  :smile:
 
-- 🔭 I'm a Geoscientist, who loves to code, read and do data science.
+- 🔭 I'm a Geoscientist, who likes Programming, data science and food :see_no_evil: :smile: 
 - 🌱 I’m addicted to continious learning and self-improvement.
 - 👯 I’m currently learning to be a problem solver through coding, and sharing my little knowledge here. 
 - 📫 How to reach me on:

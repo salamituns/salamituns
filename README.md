@@ -1,6 +1,6 @@
 ### Hi there 👋.  I'm Olatunde  :smile:
 
-- 🔭 I'm a Geoscientist, who likes data science with particular interest in data analytics, ML, and AI 
+- 🔭 I'm a Geoscientist, who likes data science with particular interest in data analytics, ML, and AI. 
 -    Currently, I'm studying at [Strive school](https://strive.school/) to become an **AI Engineer**
 - 🌱 I’m addicted to continious learning and self-improvement.
 - 👯 Currently, I am learning to be a problem solver through coding, and sharing my little knowledge here. 

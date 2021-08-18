@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Geoscientist, who likes data science with particular interest in applying AI to making life easy. 
 - 💬 Currently, I'm studying at [Strive school](https://strive.school/) to become an **AI Engineer**
-- 💻 Some of the technologies that I'm currently working with includes: NLTK(for NLP task), OpenCV (Computer Vision), Flask apps(Model deployment)
+- 💻 Some of the technologies that I'm currently working with includes: Python, NLTK, OpenCV, Flask,etc. 
 - 🌱 I’m addicted to continious learning and self-improvement.
 - 👯 Currently, I am learning to be a problem solver through coding, and sharing my little knowledge here. 
 - ⚡  Fun fact: I am a foodie :see_no_evil: :smile: 

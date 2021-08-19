@@ -9,6 +9,7 @@
 - 📫 Connect with me on:
   -  [Linkedin](https://www.linkedin.com/in/olatunde-salami/)
   -  [Twitter](https://twitter.com/Olatunde_tuns)
+  -  [Portfolio page](https://salamituns.github.io/)
 
 
 <!-- 

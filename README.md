@@ -1,6 +1,6 @@
 ### Hi there 👋.  I'm Olatunde  :smile:
 
-- 🔭 I'm a Geoscientist, who likes data science with particular interest in applying AI to making life easy. 
+- 🔭 I'm a DevOps Engineer, who likes data science with particular interest in applying AI to making life easy. 
 - 💬 Recently, completed an Intensive AI program at [Strive school](https://strive.school/) to become an **AI Engineer**
 - 💻 Some of the technologies that I'm currently working with includes: Python, SQL, Keras, Pytorch, NLTK, OpenCV, Flask,etc. 
 - 👯 I am learning to be a problem solver through coding, and sharing my little knowledge here. 

@@ -1,10 +1,8 @@
 ### Hi there 👋.  I'm Olatunde  :smile:
 
-- 🔭 I'm a DevOps Engineer, who likes data science with particular interest in applying AI to making life easy. 
-- 💬 Recently, completed an Intensive AI program at [Strive school](https://strive.school/) to become an **AI Engineer**
-- 💻 Some of the technologies that I'm currently working with includes: Python, SQL, Keras, Pytorch, NLTK, OpenCV, Flask,etc. 
-- 👯 I am learning to be a problem solver through coding, and sharing my little knowledge here. 
-- 💻 You can preview and read about some of my work on my [Deepnote page](https://deepnote.com/@salamituns)
+- 🔭 I'm a learning to become a DevOps Engineer, with particular interest in applying AI to making life easy. 
+- 💻 Some of the technologies that I'm currently working with includes: Python, Bash scripting, Golang, Jenkins, GitHub-actions, Ansible, Docker, Kubernetes, Prometheus,etc. 
+- 👯 I am learning to be a problem solver through scripting, and sharing my little knowledge here. 
 - 🌱 I’m addicted to continious learning and self-improvement.
 - ⚡  Fun fact: I am a foodie :see_no_evil: :smile: 
 - 📫 Connect with me on:
@@ -23,6 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 💻 You can preview and read about some of my work on my [Deepnote page](https://deepnote.com/@salamituns)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

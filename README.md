@@ -11,7 +11,7 @@
   -  [Twitter](https://twitter.com/Olatunde_tuns)
   -  [Portfolio page](https://salamituns.github.io/)
 -->
-# Olatunde Salami
+# Olatunde 
 
 Building operational automation for energy companies.
 
@@ -19,7 +19,7 @@ Building operational automation for energy companies.
 
 **Technical stack:** Python, data pipelines, system integration, DevOps automation (Jenkins, Docker, Kubernetes, Ansible)
 
-**Background:** M.S. Marine Geosciences + 5 years Technical PM in platform engineering
+**Background:** M.S. Marine Geosciences + Technical PM in platform engineering + Software Engineering
 
 Selected repos:
 - [energy-compliance-automation] - Automated regulatory reporting prototype

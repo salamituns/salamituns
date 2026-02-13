@@ -1,9 +1,9 @@
 ### Hi there 👋.  I'm Olatunde  :smile:
 
-- 🔭 I'm a learning to become a DevOps Engineer, and with particular interest in applying Artificial intelligence to making life easy. 
+- 🔭 I'm an an avid learner, with particular interest in applying Artificial intelligence to making life easy. 
 - 💻 Some of the technologies that I'm currently working with includes: Python, Bash scripting, Golang, Jenkins, GitHub-actions, Ansible, Docker, Kubernetes, Prometheus,etc.
 - I regularly use toos like Cursor for IDE, N8N for workflow Automation, vercel for app deployment.  
-- 👯 I am learning to be a problem solver through scripting, and sharing my little knowledge here. 
+- 👯 I am learning to be a problem solver through Automation, and sharing my little knowledge here. 
 - 🌱 I’m addicted to continious learning and self-improvement.
 - ⚡  Fun fact: I am a foodie :see_no_evil: :smile: 
 - 📫 Connect with me on:

@@ -5,7 +5,8 @@ I design and build **operational automation systems** at the intersection of dat
 **Current focus:** Turning messy, real‑world workflows into reliable software products across healthcare, energy, and urban environments.
 
 **What I’m building:**
-- **Protexa** — AI‑powered HIPAA compliance automation for healthcare providers (risk assessments, evidence management, audit‑ready reporting).
+
+- **Protexa** — AI‑powered HIPAA compliance automation for healthcare providers (risk assessments, evidence management, audit‑ready reporting). [View Protexa](https://protexa.ai)
 - **HushLine** — Hyperlocal noise prediction using GIS, OpenStreetMap data, traffic patterns, and ML calibration for apartment hunters and urban planners.
 - **SubsurfaceOS** — AI‑powered data preparation and workflow orchestration for independent energy operators, sitting between digitization and interpretation.
 
@@ -13,9 +14,9 @@ I design and build **operational automation systems** at the intersection of dat
 
 **Background:** M.S. Marine Geosciences + Technical PM in platform engineering + Software Engineering. I like hard, domain‑heavy problems where experts currently spend most of their time wrangling data instead of exercising judgment.
 
-Based in Houston.  
-[LinkedIn](https://linkedin.com/in/salamituns) · [Portfolio](https://salamituns.github.io)
+Based in Houston.
 
+[LinkedIn](https://linkedin.com/in/salamituns) · [Portfolio](https://salamituns.github.io)
 
 <!-- ### Hi there 👋.  I'm Olatunde  :smile:
 

@@ -14,7 +14,10 @@ I design and build **operational automation systems** at the intersection of dat
 **Background:** M.S. Marine Geosciences + Technical PM in platform engineering + Software Engineering. I like hard, domain‑heavy problems where experts currently spend most of their time wrangling data instead of exercising judgment.
 
 Based in Houston.  
-[LinkedIn](https://linkedin.com/in/salamituns) · [Portfolio](https://salamituns.github.io)<!-- ### Hi there 👋.  I'm Olatunde  :smile:
+[LinkedIn](https://linkedin.com/in/salamituns) · [Portfolio](https://salamituns.github.io)
+
+
+<!-- ### Hi there 👋.  I'm Olatunde  :smile:
 
 - 🔭 I'm an an avid learner, with particular interest in applying Artificial intelligence to making life easy. 
 - 💻 Some of the technologies that I'm currently working with includes: Python, Bash scripting, Golang, Jenkins, GitHub-actions, Ansible, Docker, Kubernetes, Prometheus,etc.

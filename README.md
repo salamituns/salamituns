@@ -16,7 +16,7 @@ I design and build **operational automation systems** at the intersection of dat
 
 Based in Houston.
 
-[LinkedIn](https://linkedin.com/in/salamituns) · [Portfolio](https://salamituns.github.io)
+[LinkedIn](https://linkedin.com/in/salamituns) 
 
 <!-- ### Hi there 👋.  I'm Olatunde  :smile:
 

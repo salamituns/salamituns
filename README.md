@@ -10,7 +10,7 @@ I design and build **operational automation systems** at the intersection of dat
 - **HushLine** — Hyperlocal noise prediction using GIS, OpenStreetMap data, traffic patterns, and ML calibration for apartment hunters and urban planners.
 - **SubsurfaceOS** — AI‑powered data preparation and workflow orchestration for independent energy operators, sitting between digitization and interpretation.
 
-**Technical stack:** Python, data pipelines, system integration, Langchain, DevOps automation (Jenkins, Docker, Kubernetes, Ansible), workflow automation (n8n).
+**Technical stack:** Python, data pipelines, system integration, Langfuse, Langchain, DevOps automation (Jenkins, Docker, Kubernetes, Ansible), workflow automation (n8n).
 
 **Background:** M.S. Marine Geosciences + Technical PM in platform engineering + Software Engineering. I like hard, domain‑heavy problems where experts currently spend most of their time wrangling data instead of exercising judgment.
 

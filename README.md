@@ -19,7 +19,7 @@ The studio, the products, and the open work all live at **[tareony.com](https://
 
 **Stack:** Python, TypeScript, React and Astro, Supabase, deck.gl, geospatial and AI. DevOps with Docker, Kubernetes, Ansible, n8n.
 
-**Background:** M.S. Marine Geosciences, Technical PM in platform engineering, and software engineering. I like hard, domain-heavy problems where experts spend most of their time wrangling data instead of exercising judgment.
+**Background:** M.S. Marine Geosciences, Software Eng., Technical PM in platform engineering, and software engineering. I like hard, domain-heavy problems where experts spend most of their time wrangling data instead of exercising judgment.
 
 Based in Houston.
 
